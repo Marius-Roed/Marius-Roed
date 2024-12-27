@@ -1,4 +1,9 @@
-## Hi there 👋
+## Marius Roed
+
+Hello World! I am just a *chill guy*, who's intrigued by anything awesome. This includes, but is not limited to:
+- Computers.
+
+Also, automation is cool, and I look forward to the day where I can live life like in Wall-E.
 
 <!--
 **Marius-Roed/Marius-Roed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
